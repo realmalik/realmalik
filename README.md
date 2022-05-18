@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @realmalik
-- 👀 I’m interested in Blockchain Development and Algorithm Trading
-- 🌱 I’m currently learning Blockchain Development and Algorithm Trading
-- 💞️ I’m looking to collaborate on Blockchain Development and Algorithm Trading
+- 👀 I’m interested in Blockchain Development and Algorithmic Trading
+- 🌱 I’m currently learning Blockchain Development and Algorithmic Trading
+- 💞️ I’m looking to collaborate on Blockchain Development and Algorithmic Trading
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/malik-raheem-761501171/
 
 <!---
